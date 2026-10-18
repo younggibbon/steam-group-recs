@@ -1,0 +1,9 @@
+requests>=2.31
+pandas>=2.1
+pyarrow>=15
+python-dotenv>=1.0
+tqdm>=4.66
+pytest>=8
+scipy>=1.11
+scikit-learn>=1.4
+streamlit>=1.38
